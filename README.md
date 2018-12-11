@@ -11,3 +11,6 @@ A presentation tool for hackers. Create live presentation with live data. (e.g. 
 - The rendered screen is sent to the projector through Firebase.
 
 - This means we can customize the code and change everything on the screen without needing to refresh the page on the projector.
+
+Credit Constructor: Thai Pangsakulyanont
+https://www.facebook.com/dtinth/videos/10210867161029243
